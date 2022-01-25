@@ -1,4 +1,8 @@
-# BOO 👻
+Hey! I'm working on Full-Stack projects atm.
+
+Also 
+
+# BOOO 👻
 
 <!--
 **Stiggu/stiggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
