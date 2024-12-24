@@ -1,6 +1,3 @@
-Hey! I'm working on Full-Stack projects atm.
-
-Also 
 
 # BOOO 👻
 
